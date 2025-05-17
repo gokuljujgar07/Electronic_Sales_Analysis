@@ -10,7 +10,9 @@
 
 ## 📱 Most Profitable Product Type
 ### Smartphones generated the highest total revenue at $16.49 million, making them the most profitable product category.
+# 📌 Project Result
 
+[Click here to get full code](https://github.com/gokuljujgar07/Electronic_Sales_Analysis/blob/main/Electronic%20_Sales_Analysis.ipynb)
 ## 👥 Highest Sales by Age Group
 ### The 61–80 age group accounts for the highest sales frequency.
 ### Action: Continue investing in senior-friendly products, simplified ordering, and targeted loyalty programs.
