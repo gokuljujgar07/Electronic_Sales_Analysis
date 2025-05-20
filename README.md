@@ -17,6 +17,10 @@
 ### The 61–80 age group accounts for the highest sales frequency.
 ### Action: Continue investing in senior-friendly products, simplified ordering, and targeted loyalty programs.
 
+## 📈 Balanced Sales Across All Add-on Categories
+### Impulse Items had the highest share, but only slightly more than the others.
+### All three categories have very similar percentages, suggesting balanced sales among add-on types.
+
 ## 💳 Preferred Payment Method
 ### Credit cards are the most commonly used payment option among customers.
 
