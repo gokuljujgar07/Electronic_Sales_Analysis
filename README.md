@@ -1,7 +1,12 @@
-# Electronic_Sales_Analysis
+<span style="font-size:20px; font-weight:normal;">
+  
+ # 📊 Electronic_Sales_Analysis
+
+This project analyzed over **20,000 electronic sales records** to uncover valuable insights on product performance, customer behavior, shipping preferences, and sales trends. The dataset was cleaned, columns standardized, and SKU codes mapped to real product names to improve clarity and usability. Visualizations and data insights helped identify strategies to boost revenue, optimize marketing, and enhance the customer experience.
+
 ---
 # Insights
-<span style="font-size:20px; font-weight:normal;">
+
   
 ### 📱 Most Profitable Category
 
@@ -93,4 +98,19 @@ For the 35–60 age group, personalize marketing efforts by segmenting offers ba
  ✅ Investigate reasons for cancellations (e.g., delivery issues, payment failures).
 
 ✅ Improve customer experience, return policies, or checkout flow to reduce cancellations.
+
+
+
+---
+
+## ✅ Key Outcomes  
+- Cleaned and enhanced dataset for analysis  
+- Created visuals for insights  
+- Delivered actionable recommendations for business growth  
+
+---
+
+## 📌 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook  
 </span>
