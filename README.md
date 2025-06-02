@@ -1,69 +1,96 @@
 # Electronic_Sales_Analysis
 ---
 # Insights
+<span style="font-size:20px; font-weight:normal;">
+  
+### 📱 Most Profitable Category
 
-## 📈 Top-Selling Product
-### SMP234 leads in revenue, significantly outperforming all other products.
+    
+Smartphones generated the highest total revenue at **$21.84 million**, making them the most profitable category.
 
-## 📊 Strong Performers
-### SKU1003, TBL345, SKU1004, and LTP123 also show strong performance, each generating over $5 million in sales.
+ Headphones generate the least revenue.
 
-## 📱 Most Profitable Product Type
-### Smartphones generated the highest total revenue at $16.49 million, making them the most profitable product category.
-# 📌 Project Result
+
+✅ Focus marketing and promotions on top-selling categories like smartphones and smartwatches.
+
+✅ Improve visibility or bundling strategies for lower-selling products like headphones.
+
+### 📌 Project Result
 
 [Click here to get full code](https://github.com/gokuljujgar07/Electronic_Sales_Analysis/blob/main/Electronic%20_Sales_Analysis.ipynb)
-## 👥 Highest Sales by Age Group
-### The 61–80 age group accounts for the highest sales frequency.
-### Action: Continue investing in senior-friendly products, simplified ordering, and targeted loyalty programs.
+### 📈 Top-Selling Product
 
-## 📈 Balanced Sales Across All Add-on Categories
-### Impulse Items had the highest share, but only slightly more than the others.
-### All three categories have very similar percentages, suggesting balanced sales among add-on types.
+    
+**Apple iPhone 14** leads in revenue, significantly outperforming all other products.
 
-## 💳 Preferred Payment Method
-### Credit cards are the most commonly used payment option among customers.
 
-## 📦 Shipping Type & Customer Experience
-### Standard shipping is preferred and brings highest revenue.
+### 📊 Strong Performers
 
-## 📦 Order Fulfillment
-### Most orders are completed successfully, indicating strong operational performance.
+    
+**Samsung Galaxy Tab S8, Lenovo Yoga 7i, Google Pixel 7, and Dell XPS 13** also show strong performance, each generating over $5 millions in sales.
 
-## 🗓️ Top Performing Months
-### August, May, January, and June each generated around $5.2 million in sales, suggesting these are peak business or marketing periods.
 
-## 📈 Average Order Value Over Time
-### The highest average order value is in June, followed by August and September.
-### There is a sharp drop in October, November and December where order values are the lowest.
+### 📉 Low-Selling Products
 
-## 🧍‍♂️🧍‍♀️Total Revenue by Gender and Loyalty Membership
-### Both male and female non-loyalty members contribute the most to revenue.
-### Loyalty members contribute much less, even though they might be repeat customers.
----
-# ✅  Recommendations
+    
+Products like Samsung Galaxy S23 and Amazon Fire HD 10 have low sales. It's recommended to review pricing, improve marketing, offer promotions, or bundle with top-selling items. If there's no improvement, phasing them out can help focus on better-performing products.
 
-## ✅ Target Age Group 18–35
-### Launch dedicated marketing campaigns on social platforms like Instagram, YouTube  to engage younger audiences.
-### For the 35–60 age group, personalize marketing efforts by segmenting offers based on lifestyle and preferences to boost engagement
 
-## ✅ Low-Selling Products
-### SKU1001 shows extremely poor performance—review its positioning, promotion strategy, or consider discontinuation.
-### SKU1002 also underperforms and may benefit from re-evaluation or strategic adjustments.
+### 📆 Quarter 4 Sales Drop
+Despite Q4 usually being the strongest sales period in the U.S. (due to Black Friday, Cyber Monday, and Christmas), sales dropped sharply from September to December, with December being the lowest at $2.0M (70% drop). This may be due to no holiday promotions, stock issues, or lack of advertising. Companies should plan better Q4 strategies to meet customer expectations.
 
-## ✅ Support Moderate Performers
-### SWT567, SKU1005, and HDP456 generate moderate revenue. They may benefit from limited-time offers, bundling strategies, or targeted promotions to boost sales.
 
-## ✅ Enhance Customer Experience
-### Maintain high customer satisfaction by continually improving delivery speed, customer support, and offering hassle-free return policies.
-### Promote standard shipping further since it’s most preferred and profitable.
-### Boost average order value in low-performing months via smart marketing and product placement.
 
-## ✅ Boost Sales in Low-Performing Months
-### Sales dip in October, November, and December. Counteract this trend by launching:
-#### Run seasonal campaigns, such as:
-#### Diwali / Holiday Giveaways
-#### Year-End Flash Sales
-#### New Product Launches
-#### Offer free shipping or gift coupons to increase purchase motivation.
-#### 
+### ✅ Enhance Customer Experience
+June recorded the highest average order value, followed closely by August and September.
+
+ This suggests that customers were more willing to make high-value purchases during mid-year.
+ 
+ Maintain high customer satisfaction by continually improving delivery speed, customer support, and offering hassle-free return policies.
+ Promote standard shipping further since it’s most preferred and profitable.
+Boost average order value in low-performing months via smart marketing and product placement.
+
+    
+### 📈 Balanced Sales Across All Add-on Categories
+ Impulse Items had the highest share, but only slightly more than the others.
+ 
+ All three categories have very similar percentages, suggesting balanced sales among add-on types.
+
+    
+### 🧍‍♂️🧍‍♀️Total Revenue by Gender and Loyalty Membership
+
+ Non-loyalty members contribute significantly more revenue than loyalty members.
+ 
+ Revenue from males and females is almost equal in both categories.
+
+ ✅ Re-evaluate loyalty program benefits consider offering better rewards or discounts.
+
+ ✅ Promote loyalty membership more actively to increase adoption and long-term revenue.
+
+    
+### 👥 Highest Sales by Age Group
+ The 61–80 age group accounts for the highest sales frequency.
+ 
+ Action: Continue investing in senior-friendly products, simplified ordering, and targeted loyalty programs.
+
+### ✅ Target Age Group 18–35
+Launch dedicated marketing campaigns on social platforms like Instagram, YouTube  to engage younger audiences.
+For the 35–60 age group, personalize marketing efforts by segmenting offers based on lifestyle and preferences to boost engagement
+
+    
+### 📦 Shipping Type & Customer Experience
+ Standard shipping is preferred and brings highest revenue.
+
+    
+### 💳 Preferred Payment Method
+
+ Credit cards are the most commonly used payment option among customers.
+
+
+### 📦 Order Status
+ Most orders are completed successfully, indicating strong operational performance.
+
+ ✅ Investigate reasons for cancellations (e.g., delivery issues, payment failures).
+
+✅ Improve customer experience, return policies, or checkout flow to reduce cancellations.
+</span>
